@@ -1,0 +1,4 @@
+arr = np.array([10,20,30])
+print(np.insert(arr,1,99))   
+print(np.delete(arr,2))     
+print(np.concatenate(([1,2,3],[4,5,6])))  
