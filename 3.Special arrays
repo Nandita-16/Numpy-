@@ -1,0 +1,6 @@
+print(np.full((2,2), 7))      
+print(np.zeros((2,3)))        
+print(np.ones((2,3)))         
+print(np.arange(1,10,2))     
+print(np.linspace(1,10,5))    
+print(np.eye(3))             
