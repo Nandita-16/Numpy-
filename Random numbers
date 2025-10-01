@@ -1,0 +1,4 @@
+print(np.random.rand(4))      
+print(np.random.randn(4))     
+print(np.random.ranf(2)) 
+print(np.random.randint(3,10,4))  
