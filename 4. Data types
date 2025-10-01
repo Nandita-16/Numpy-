@@ -1,0 +1,10 @@
+arr = np.array([1,2,3,4])
+print(arr.dtype)             
+
+arr = np.array([1,2,3,4], dtype=np.int8)
+print(arr.dtype)              
+
+arr = np.array([1,2,3,4], dtype='f')  
+print(arr, arr.dtype)         
+
+print(arr.astype(int))        
